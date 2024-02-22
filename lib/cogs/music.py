@@ -11,8 +11,6 @@ import yt_dlp as ytdl
 import random
 import os
 
-AUTHORIZED_GUILDS = eval(str(os.getenv("AUTHORIZED_GUILDS"))).values()
-
 YTDL_OPTS = {
     "default_search": "ytsearch",
     "format": "m4a/bestaudio/best",
