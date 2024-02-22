@@ -26,7 +26,7 @@ Vous déployer DiscoBot en utilisant Docker pour une installation rapide et effi
 
 1. **Clonez le Repo :**
 ```bash
-git clone https://github.com/VotreUtilisateur/DiscoBot.git
+git clone https://github.com/AlexandreFigard/discobot.git
 cd DiscoBot
 ```
 
