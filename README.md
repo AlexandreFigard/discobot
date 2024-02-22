@@ -8,10 +8,10 @@ DiscoBot est bien plus qu'un simple bot de musique pour Discord. C'est votre par
 
 ## 🎵 Fonctionnalités
 
-- Recherche de Musique 🔍 : DiscoBot vous permet de rechercher votre musique préférée par titre, garantissant que vous puissiez toujours écouter exactement ce que vous avez en tête.
-- Commandes Intuitives 🎛️ : Contrôlez DiscoBot facilement avec des commandes simples et intuitives, même si vous avez deux pieds gauches !
-- Lecture de Playlist 📜 : Créez une atmosphère continue en permettant à DiscoBot de gérer vos playlists. 
-- Affichage Élégant 🌈 : Transformez votre expérience musicale avec un affichage visuel élégant. Les informations sur la chanson en cours, les pochettes d'album et plus encore sont présentées de manière attrayante pour une immersion totale dans la musique.
+- **Recherche de Musique 🔍 :** DiscoBot vous permet de rechercher votre musique préférée par titre, garantissant que vous puissiez toujours écouter exactement ce que vous avez en tête.
+- **Commandes Intuitives 🎛️ :** Contrôlez DiscoBot facilement avec des commandes simples et intuitives, même si vous avez deux pieds gauches !
+- **Lecture de Playlist 📜:** Créez une atmosphère continue en permettant à DiscoBot de gérer vos playlists. 
+- **Affichage Élégant 🌈 :** Transformez votre expérience musicale avec un affichage visuel élégant. Les informations sur la chanson en cours, les pochettes d'album et plus encore sont présentées de manière attrayante pour une immersion totale dans la musique.
 
 
 
