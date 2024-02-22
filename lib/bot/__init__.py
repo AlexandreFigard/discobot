@@ -25,7 +25,6 @@ load_dotenv(dotenv_path="/app/.env")
 class Bot(BotBase):
 	def __init__(self):
 		self.ready = False
-		self.guild = None
 		self.TOKEN=os.environ['BOT_TOKEN']
 		self.scheduler = AsyncIOScheduler(timezone="Europe/Paris")
 
@@ -48,7 +47,6 @@ class Bot(BotBase):
 
 	async def on_ready(self):
 		if not self.ready:
-			self.guild = self.get_guild(os.environ["SERVER_ID"])
 			self.scheduler.start()
 			self.ready = True
 			print("Now ready to receive commands")
