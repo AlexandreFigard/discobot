@@ -1,0 +1,9 @@
+py-cord
+py-cord[voice]
+PyNacl
+APScheduler
+ffmpeg
+yt-dlp
+python-dotenv
+wonderwords
+psutil
