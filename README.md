@@ -36,7 +36,7 @@ cd DiscoBot
 - Obtenez votre token Discord en créant une nouvelle application sur le [Portail des développeurs Discord.](https://discord.com/developers)
 - Créez un fichier .env à la racine du projet et ajoutez votre token :
 ```env
- DISCOBOT_TOKEN=VotreTokenDiscord
+ BOT_TOKEN=VotreTokenDiscord
  ```
    
 
