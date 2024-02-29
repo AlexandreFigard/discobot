@@ -1,3 +1,7 @@
+<div id="header" align="center">
+<img src="https://github.com/AlexandreFigard/discobot/blob/main/banner.png?raw=true" />
+</div>
+
 # DiscoBot - La Star des Salons Vocaux 🎶
 
 Bienvenue dans l'univers étincelant de DiscoBot, le bot Discord qui transformera vos salons vocaux en une piste de danse virtuelle ! 🕺💃
